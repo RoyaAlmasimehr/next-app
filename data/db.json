@@ -1,0 +1,460 @@
+
+{
+    "laptops" :[
+      {
+        "id": 1,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fbnhwceiyzkvea63uqut8o1z61f64ndtv43os5bprlba7c4pnhp%255blarge%255d.png",
+        "text": "لپ تاپ اپل 13.6 اینچی مدل MacBook Air MRXV3 2024 پردازنده M3 رم 8GB حافظه 256GB SSD",
+        "price": 67500000,
+        "brand": "apple "
+      },
+      {
+        "id": 2,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fvjjkgfdzd2qvyef3twlilch1xupcbkcr1d5qifj5djsno0l8gd%255blarge%255d.jpg",
+        "text": "لپ تاپ اپل 13.3 اینچی مدل Apple MacBook Pro 2022 MNEH3 پردازنده M2 رم 8GB حافظه 256GB SSD",
+        "price": 72200000,
+        "brand": "apple "
+      },
+      {
+        "id": 3,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fiki281fy80eojat32z0jqvv0vgfjvpbhky1x4rqfugw7o8mgsb%255blarge%255d.jpg",
+        "text": "لپ تاپ اپل مک بوک ایر 2020 مدل MVH52",
+        "price": 42200000,
+        "brand": "apple "
+      },
+      {
+        "id": 4,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252frztae0c7r0h1vww03dfr44cq7jkeu772d5qp0fhrzdj8xqdq8d%255blarge%255d.jpg",
+        "text": "لپ تاپ لنوو 15.6 اینچی مدل V15 پردازنده Core i3 1115G4 رم 12GB حافظه 1TB 256GB SSD گرافیک 2GB MX350 فول اچ دی",
+        "price": 24900000,
+        "brand": "lenovo "
+      },
+      {
+        "id": 5,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fvsxy36c1oa8153boql86zzyijf8s1zuhepi0tv2i2cpdrr4xph%255blarge%255d.jpg",
+        "text": "لپ تاپ لنوو 15.6 اینچی مدل Ideapad 3 پردازنده Core i3 1215U رم 12GB حافظه 1TB 256GB SSD گرافیک Intel",
+        "price": 23200000,
+        "brand": "lenovo "
+      },
+      {
+        "id": 6,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fzxsh41qngn1kp8xbfqab5vkjocq8de0jyt7cqjxamb54wrbero%255blarge%255d.jpg ",
+        "text": "لپ تاپ لنوو 15.6 اینچی مدل Ideapad 3 پردازنده Core i3 1215U رم 8GB حافظه 512GB SSD گرافیک Intel ",
+        "price": 21000000,
+        "brand": "lenovo "
+      },
+      {
+        "id": 7,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fgzzew3fq4yziid23v1ykvw8m45ls6ulg4g6x24ld5s5pfp2uwy%255blarge%255d.jpg ",
+        "text": " لپ تاپ لنوو 15.6 اینچی مدل Ideapad 1 پردازنده N4020 رم 4GB حافظه 256GB SSD گرافیک Intel ",
+        "price": 13600000,
+        "brand": "lenovo "
+      },
+      {
+        "id": 8,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fny2gvwd6lwhnylkg4j8yxjiwad8elce7fv0pghy3z6fhc00frd%255blarge%255d.jpg ",
+        "text": " MacBook Air اپل 13 اینچ مدل MGN73 پردازنده Apple M1 chip رم 8GB حافظه 512GB SSD ",
+        "price": 53600000,
+        "brand": "apple "
+      },
+      {
+        "id": 9,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fgt3nngc0sjmv6mdbx2hnig84l45mf07nxfm8xljeb41xsswjiy%255blarge%255d.jpg ",
+        "text": "لپ تاپ لنوو 15.6 اینچی مدل LOQ پردازنده Core i7 13620H رم 32GB حافظه 1TB SSD گرافیک 8GB 4060 ",
+        "price": 74500000,
+        "brand": "lenovo "
+      },
+      {
+        "id": 10,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fmhbka33ghgaopi1qrd2g46kzy5ltz4hqz6e3yymnllodrlrvdu%255blarge%255d.png ",
+        "text": " لپ تاپ ایسوس 15.6 اینچی مدل TUF FX506HC پردازنده Core i5 11400H رم 8GB حافظه 512GB SSD گرافیک 4GB RTX3050",
+        "price": 45500000,
+        "brand": "asus "
+      },
+      {
+        "id": 11,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252f56pj6hpmgt3aqivdec24hitn0njk7362ko2iwxog0vueu2v6zk%255blarge%255d.jpg ",
+        "text": " لپ تاپ ایسوس 15.6 اینچی مدل E510MA پردازنده N4020 رم 4GB حافظه 512GB SSD گرافیک Intel",
+        "price": 15900000,
+        "brand": "asus "
+      },
+      {
+        "id": 12,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252f2dsrau6h3wo28nk5d6pfioufjpdmcvmu5npqn103d63wfwe32c%255blarge%255d.jpg",
+        "text": " لپ تاپ ایسوس 15.6 اینچی مدل TUF FX506HF پردازنده Core i5 11400H رم 16GB حافظه 512GB SSD گرافیک 4GB RTX2050",
+        "price": 42650000,
+        "brand": "asus "
+      },
+      {
+        "id": 13,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fhsdz3ybdvocwidb6jtvagmmkjln0oqn2ibffouu0g5rp07yjgg%255blarge%255d.jpg",
+        "text": " لپ تاپ ایسوس 15.6 اینچی مدل VivoBook R1502ZA پردازنده Core i7 رم 16GB حافظه 512GB SSD گرافیک INTEL",
+        "price": 35500000,
+        "brand": "asus "
+      },
+      {
+        "id": 14,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252ftxs1fdceqgmplqm30m2scujsijz8yu5cnyxwcv3fr8cik54ibl%255blarge%255d.jpg",
+        "text": " لپ تاپ ایسوس 15.6 اینچی مدل VivoBook R565EP پردازنده Core i3 1115G4 رم 4GB حافظه 512GB SSD گرافیک 2GB",
+        "price": 29900000,
+        "brand": "asus "
+      },
+      {
+        "id": 15,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fm8pymnc1evcm066xkknnxa3e7y2chjzmpugd3cfrpbyd4qxx6b%255blarge%255d.jpg ",
+        "text": " لپ تاپ ایسوس 15.6 اینچی مدل CREATOR Q540VJ پردازنده Core i9-13900H رم 16GB حافظه 1TB SSD گرافیک 6GB RTX3050",
+        "price": 70500000,
+        "brand": "asus "
+      },
+      {
+        "id": 16,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252f76glabj4u1iwkcirdurcpo20yp8yr105f74762swfa8k1syw35%255blarge%255d.jpg",
+        "text": " لپ تاپ ایسوس 16 اینچی مدل ROG Strix G16 G614JI پردازنده Core i7 رم 16GB حافظه 1TB SSD گرافیک 8GB 4070",
+        "price": 102000000,
+        "brand": "asus "
+      },
+      {
+        "id": 17,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252f8j06ylsc4yq1ofyl4yydh1g66e3egckk43p6ym3js2d23fgafi%255blarge%255d.jpg ",
+        "text": " لپ تاپ اپل مک بوک ایر مدل MQD32",
+        "price": 42000000,
+        "brand": "apple "
+      },
+      {
+        "id": 18,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fe5beiwaadcfibbkplaosy7e00lgafizmh4qmaktfv2mu2myrqy%255blarge%255d.jpg ",
+        "text": "لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Space Gray MLXW3 پردازنده M2 رم 8GB حافظه 256GB SSD ",
+        "price": 52500000,
+        "brand": "apple "
+      },
+      {
+        "id": 19,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fah7yk1cb6cdraropitluvqhdd1bxv4px0qfxkg34nbljl5lh3b%255blarge%255d.png",
+        "text": " لپ تاپ اچ پی 15.6 اینچی مدل Victus 15-FA1093DX پردازنده Core i5-13420H رم 16GB حافظه 512GB SSD گرافیک 6GB ",
+        "price": 49900000,
+        "brand": "hp "
+      },
+      {
+        "id": 20,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252f670cren0wbfhqni0oo58r3t217gm78av42q1tolr4dj0fokbmc%255blarge%255d.jpg",
+        "text": " لپ تاپ 15.6 اینچی اچ پی مدل ProBook 450 G9 - 7B پردازنده Core i7 رم 8GB حافظه 1TB SSD گرافیک 2GB MX570 ",
+        "price": 46800000,
+        "brand": "hp "
+      },
+      {
+        "id": 21,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fdp6klnezwg7mkb4pywh52g7u60ljekk0br5p543rftnmo5atqb%255blarge%255d.jpg",
+        "text": " لپ تاپ 15.6 اینچی اچ پی مدل ENVY x360 15t FE000 پردازنده Core i7 رم 16GB حافظه 1TB SSD گرافیک 4GB",
+        "price": 71000000,
+        "brand": "hp "
+      },
+      {
+        "id": 22,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fqhij74zvoep1z1praiq4mg1ogamhlfh2galo5lgt4a5riyjk70%255blarge%255d.jpg",
+        "text": " لپ تاپ 15.6 اینچی اچ پی مدل VICTUS 15 FA1021 - A پردازنده Core i7 رم 8GB حافظه 512GB SSD گرافیک 6GB 3050",
+        "price": 53500000,
+        "brand": "hp "
+      },
+      {
+        "id": 23,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fo3fbhgxhg56tydoj3tmnqhx5hilkcxt1g56cl6n1wx8f2zvb2u%255blarge%255d.jpg",
+        "text": " لپ تاپ 13.5 اینچی اچ پی مدل Spectre x360 14 EF2013dx - C پردازنده Core i7 رم 16GB حافظه 2TB SSD گرافیک Intel لمسی",
+        "price": 71900000,
+        "brand": "hp "
+      },
+      {
+        "id": 24,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fi2j027q6jwpkznbl5sqnfpfyjolde671iqip2pch3cq85o3n0q%255blarge%255d.jpg",
+        "text": "لپ تاپ 15.6 اینچی اچ پی مدل ProBook 450 G9 - 7C پردازنده Core i7 رم 16GB حافظه 1TB SSD گرافیک 2GB MX570",
+        "price": 51100000,
+        "brand": "hp "
+      },
+      {
+        "id": 25,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fx7sbk16mgmsxabbomemf85hy1130zuja7gdj740yyxfk4huljy%255blarge%255d.jpg",
+        "text": "لپ تاپ 15 اینچی مایکروسافت مدل Surface Laptop 5 پردازنده Core i7-1255U رم 32GB حافظه 1TB SSD گرافیک Intel",
+        "price": 95000000,
+        "brand": "microsoft "
+      },
+      {
+        "id": 26,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fcryew0big66j388641jeo2hoir3yontmsysmus1se4srbhqfa5%255blarge%255d.jpg",
+        "text": " لپ تاپ مایکروسافت 12.4 اینچی مدل Surface Laptop Go 2 پردازنده Core i5 رم 16GB حافظه 256GB صفحه نمایش لمسی",
+        "price": 42000000,
+        "brand": "microsoft "
+      },
+      {
+        "id": 27,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252f86zrkp307abtpm1mj6he3hd4arrtr07gifnehodc7x5uvbolib%255blarge%255d.jpg",
+        "text": "لپ تاپ 13.5 اینچی مایکروسافت مدل Surface Laptop 5 پردازنده Core i5-1235U رم 8GB حافظه 512GB SSD گرافیک Intel",
+        "price": 57700000,
+        "brand": "microsoft "
+      },
+      {
+        "id": 28,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fctkzxtwalt27omazdp0pg5heusxahy2yxu6d4s4zobdbaofcf6%255blarge%255d.jpg",
+        "text": "لپ تاپ 15 اینچی مایکروسافت مدل Surface Laptop 4 پردازنده Core i7-1185G7 رم 8GB حافظه 512GB SSD گرافیک Intel",
+        "price": 52000000,
+        "brand": "microsoft "
+      },
+      {
+        "id": 29,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fwfom7z8q0ucde3kn0k76krts0k6flq1jldxh740eambvic46sy%255blarge%255d.jpg",
+        "text": "لپ تاپ 15 اینچی مایکروسافت مدل Surface Laptop 4 پردازنده Ryzen 7 4980U رم 16GB حافظه 512GB SSD گرافیک AMD Radeon",
+        "price": 52000000,
+        "brand": "microsoft "
+      }
+    ],
+    "mobiles":[
+      {
+        "id": 1,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fqkcth7mnsl5inmb4p32vjhlefargrdnfsl3kvwq07n608bup3h%255blarge%255d.png",
+        "text": "گوشی موبایل اپل مدل iPhone 13 Not Active ظرفیت 128GB دو سیم کارت",
+        "price": 42800000,
+        "brand": "apple "
+      },
+      {
+        "id": 2,
+        "image": " https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252ftd31u13kwqax727uvdzj580jtpaflt1f3kurw0jg0xd30l46sh%255blarge%255d.jpg",
+        "text": "گوشی موبایل اپل مدل iPhone 11 با ظرفیت 128 گیگابایت دو سیم کارت ",
+        "price": 38000000,
+        "brand": "apple "
+      },
+      {
+        "id": 3,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252f2aj5okevxh0cakr8ba2rio8j7x1nbf1qyuzoi5e5g7nlp4inm6%255blarge%255d.png",
+        "text":"گوشی موبایل اپل مدل iPhone 13 Pro Max ظرفیت 128GB تک سیم کارت",
+        "price": 110000000,
+        "brand": "apple "
+      },
+      {
+        "id": 4,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252flor6r8qkgwoc68n6n6g1k2thi2s2lbphvuvxfdm5q57y5qgo3m%255blarge%255d.png",
+        "text": "گوشی موبایل اپل مدل iPhone 13 Pro ظرفیت 512GB تک سیم کارت",
+        "price": 92700000,
+        "brand": "apple "
+      },
+      {
+        "id": 5,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fyp32b5tki4akrkroujpcg4yo5fiwisgkt2qx7neccwgaf8xil8%255blarge%255d.jpg",
+        "text": "گوشی موبایل اپل مدل IPhone 12 با ظرفیت 128GB دو سیم کارت",
+        "price": 30800000,
+        "brand": "apple "
+      },
+      {
+        "id": 6,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fdcv4zyzhz54rnn1ns0qesuwqeinev68me3jug8hobthrv5d71p%255blarge%255d.jpg",
+        "text": "گوشي موبايل نوکيا مدل 110 2019 Dual دو سيم‌ کارت",
+        "price": 1620000,
+        "brand": "nokia "
+      },
+      {
+        "id": 7,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252ftok5nknhuvmek214naweypaqwmjhlsyoln58mkbrdhzz4ac3me%255blarge%255d.jpg",
+        "text": "گوشی موبایل نوکیا مدل G21 دو سیم‌کارت ظرفیت 128 گیگابایت رم 6 گیگابایت",
+        "price": 6690000,
+        "brand": "nokia "
+      },
+      {
+        "id": 8,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252ft68d2d4ypfpjzv8y7azbvq8vffnc47gjopizzalrfxw5ifgsb3%255blarge%255d.jpg",
+        "text":"گوشی موبايل نوکيا مدل 5710 XpressAudio",
+        "price": 3740000,
+        "brand": "nokia "
+      },
+      {
+        "id": 9,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fqo8554c7tm6mqspp0q7jhg1kgpoazf6cf5iqpj1nmhqv1wooxv%255blarge%255d.jpg",
+        "text": "گوشی موبایل سامسونگ مدل Galaxy A54 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت با قابلیت 5G",
+        "price": 19700000,
+        "brand": "samsung "
+      },
+      {
+        "id": 10,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fxpo4cgzbrmsywl1wmizptyqd6rn81zz1rool7yhat6tsd805dc%255blarge%255d.jpg",
+        "text": "گوشی موبایل سامسونگ مدل Galaxy S23 ULTRA دو سیم‌کارت ظرفیت 256 گیگابایت رم 12 گیگابایت با قابلیت 5G",
+        "price": 55750000,
+        "brand": "samsung "
+      },
+      {
+        "id": 11,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252f4x43yhpo1l8302ta8n3x3i0hg8z40vvr4squi02vvl0v2yrixf%255blarge%255d.jpg",
+        "text": "گوشی موبایل سامسونگ Galaxy Z Fold3 ظرفیت 512 گیگابایت رم 12 گیگابایت با قابلیت 5G",
+        "price":56500000,
+        "brand": "samsung "
+      },
+      {
+        "id": 12,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fzfompxsia1lhg1xq2fwycjs8hjsi4xsvf2n8q0zmcejuwzotw4%255blarge%255d.png",
+        "text": "گوشی موبایل سامسونگ مدل Galaxy S23 FE دو سیم‌کارت ظرفیت 256 گیگابایت رم 8 گیگابایت با قابلیت 5G",
+        "price": 29000000,
+        "brand": "samsung "
+      },
+      {
+        "id": 13,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fqtw5y2h08gp3qxi00jr1fchtbk4zmauksnemt0lis5zwfxy256%255blarge%255d.jpg",
+        "text": "گوشی موبایل سامسونگ مدل Galaxy Z Flip5 5G ظرفیت 512 گیگابایت رم 8 گیگابایت با قابلیت 5G",
+        "price": 50000000,
+        "brand": "samsung "
+      },
+      {
+        "id": 14,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fcnnx6f4sfk2dcrsfazigmk7lxco3l7y780alfjyxqrlboiat88%255blarge%255d.jpg",
+        "text": "گوشی موبایل شیائومی مدل Redmi Note 11 Pro Plus 5G دو سیم‌ کارت ظرفیت 256GB رم 8GB با قابلیت 5G",
+        "price": 13750000,
+        "brand": "xiaomi "
+      },
+      {
+        "id": 15,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252foigypw2cfnl6tin43kbgg3y2ulrreio2n1nl1zsye7depsdd2k%255blarge%255d.jpg",
+        "text": "گوشی موبایل شیائومی مدل Poco M5s دو سیم‌ کارت ظرفیت 256GB رم 8GB",
+        "price": 8560000,
+        "brand": "xiaomi "
+      },
+      {
+        "id": 16,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fqkcth7mnsl5inmb4p32vjhlefargrdnfsl3kvwq07n608bup3h%255blarge%255d.png",
+        "text": "گوشی موبایل اپل مدل iPhone 13 Not Active ظرفیت 128GB دو سیم کارت",
+        "price": 42800000,
+        "brand": "xiaomi "
+      },
+      {
+        "id": 17,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fcrcvpxkw6zl7gq43y80tu1yyleo11wnoovkqbfz62i475rfmvl%255blarge%255d.jpg",
+        "text": "گوشی موبایل شیائومی مدل Redmi Note 13 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+        "price": 11320000,
+        "brand": "xiaomi "
+      },
+      {
+        "id": 18,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fob7v0un600ranw7bmbxaz2xqktrao8d168sfpjap66jp7f8abe%255blarge%255d.jpg",
+        "text": "گوشی موبایل شیائومی مدل Redmi A3 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+        "price": 45560000,
+        "brand": "xiaomi "
+      },
+      {
+        "id": 19,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fubv8nbzvrlxbtk00t1uggzo1i1vwfu68hgen2c86gzxrjno1pq%255blarge%255d.jpg",
+        "text": "گوشی موبایل شیائومی مدل Redmi 13C دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+        "price": 9900000,
+        "brand": "xiaomi "
+      },
+      {
+        "id": 20,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252f524k68swk4gcagoh1d5m7a00ck8s2phblzcjw6qot62xteb47f%255blarge%255d.jpg",
+        "text": "گوشی موبایل سامسونگ مدل Galaxy S24 ULTRA دو سیم‌کارت ظرفیت 256 گیگابایت رم 12 گیگابایت با قابلیت 5G",
+        "price": 62550000,
+        "brand": "samsung "
+      }
+    ],
+    "cameras":[
+      {
+        "id": 1,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fhgw2ns86kbt4ft4zuhksaemogyzcap83t5pq7awf75tnfsrgdz%255blarge%255d.jpg",
+        "text": "دوربین دیجیتال کانن مدل EOS 4000D به همراه لنز 18-55 میلی متر DC III",
+        "price": 32000000,
+        "brand": "canon "
+      },
+      {
+        "id": 2,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fohwh82onibmbgwuiam1ripdteh00nu6iy52flnripbo0to3x5b%255blarge%255d.jpg",
+        "text": "دوربین دیجیتال کانن Eos 80D با کیت 18-135",
+        "price": 54000000,
+        "brand": "canon "
+      },
+      {
+        "id": 3,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252frwqfywuuxe6g0f43zmpogt74yg1kps4zjjdahrez6p4r66zl1n%255blarge%255d.png",
+        "text": "دوربین دیجیتال کانن مدل EOS 77D با لنز 135-18 میلیمتر",
+        "price": 49000000,
+        "brand": "canon "
+      },
+      {
+        "id": 4,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fxwgvlpr0m37f5rf1zv8igae5cmzhy2qy2z6pnyqfh5pob8ni25%255blarge%255d.jpg",
+        "text": "دوربین دیجیتال نیکون D 3400 کیت 18-55 VR",
+        "price": 62000000,
+        "brand": "nikon "
+      },
+      {
+        "id": 5,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fuavlrrprmbyonagzr3gm11uw2j0mt563b57mrmvzmb3foo382x%255blarge%255d.jpg",
+        "text": "دوربین دیجیتال نیکون کولپیکس بی 700",
+        "price": 20000000,
+        "brand": "nikon "
+      },
+      {
+        "id": 6,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fnpu1ytpn0qzgfxb0sqqegsgpxx3ctym3uu3cl6us07q7143f67%255blarge%255d.jpg",
+        "text": "دوربین عکاسی چاپ سریع فوجی فیلم مدل Instax Mini 9",
+        "price": 12800000,
+        "brand": "fuji"
+      },
+      {
+        "id": 7,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fs2apauvay2azvuwhl8stu0ohur73ohw1g8x6xbhlk8llsddby5%255blarge%255d.jpg",
+        "text": "دوربین عکاسی فوجی فیلم مدل فاین پیکس اس 2980",
+        "price": 14000000,
+        "brand": "fuji"
+      },
+      {
+        "id": 8,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fmvatai4o6h4px2ty4cg52auh58xm5230wlng2nfzlyz4c13zgh%255blarge%255d.jpg",
+        "text": "دوربین عکاسی فوجی فیلم مدل ایکس ای 1 به همراه لنز XF18mm",
+        "price": 26000000,
+        "brand": "fuji"
+      }
+
+
+     
+    ]
+    ,"tablets":[
+      {
+        "id": 1,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252f6ubzm8s2ocg63vwveqig5tbshgdhpfv0wjbzkve1gflhpskq6l%255blarge%255d.jpg",
+        "text": "تبلت اپل آیپد 10.2 اینچ 2021 وای فای با ظرفیت 64 گیگابایت",
+        "price": 21200000,
+        "brand": "apple "
+      },
+      {
+        "id": 2,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252frb60tm3ee6cglhojt3iorujmj4yaduyi8yyxe5l8q3tudpbiar%255blarge%255d.jpg",
+        "text": "تبلت اپل مدل Apple iPad Air 5 (2022) Wi-Fi با ظرفیت 64 گیگابایت",
+        "price": 31000000,
+        "brand": "apple "
+      },
+      {
+        "id": 3,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fkuz8fp8fj14vhl5zjeifldlqk6r2bpufa2bi6zuqwekdfruado%255blarge%255d.jpg",
+        "text": "تبلت اپل آیپد پرو 12.9 اینچ 2021 وای فای با ظرفیت 256 گیگابایت",
+        "price": 112000000,
+        "brand": "apple "
+      },
+      {
+        "id": 4,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252ftkjqvl1x128xs67gksmpc4g024vs10t5vrpkeadoi80rwizi2l%255blarge%255d.jpg",
+        "text": "تبلت مایکروسافت 13 اینچ مدل Surface Pro 8 پردازنده Core i7 رم 16GB حافظه 512GB",
+        "price": 73300000,
+        "brand": "microsoft "
+      },
+      {
+        "id": 5,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252ftkjqvl1x128xs67gksmpc4g024vs10t5vrpkeadoi80rwizi2l%255blarge%255d.jpg",
+        "text": "تبلت مایکروسافت 13 اینچ مدل Surface Pro 9 پردازنده Core i7 رم 16GB حافظه 256GB",
+        "price": 73700000,
+        "brand": "microsoft "
+      },
+      {
+        "id": 6,
+        "image": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252ffum7deivom60qu44xigmbtsknitjwmdzgmmlstsyty6veow5so%255blarge%255d.jpg",
+        "text": "تبلت مایکروسافت 13 اینچ مدل Surface Pro 9 پردازنده Core i7 رم 16GB حافظه 512GB",
+        "price": 83900000,
+        "brand": "microsoft "
+      }
+    ]
+    ,"console":[
+        
+    ]
+
+    
+}
