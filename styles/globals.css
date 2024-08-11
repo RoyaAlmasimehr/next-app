@@ -25,8 +25,8 @@ body{
 }
 
 .row{
-  display: flex;
-  flex-wrap: wrap;
+  display:flex;
+
   margin: 16px;
 }
 .col{
